@@ -76,4 +76,4 @@ Rota-EXCLUIR ALUNO:
   "mensagem": "Aluno removido com Sucesso"
 }
 
-Integrantes: Miguel da Silva Rodrigues e Nicolas Santos de Souza.2ºDS.
+Integrantes: Miguel da Silva RodriguÊs e Nicolas Santos de Souza.2ºDS.
